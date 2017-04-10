@@ -20,6 +20,7 @@ public class AddOperationTest {
 
     @After
     public void after() throws Exception {
+        System.out.println("you are mine");
     }
 
     /**
