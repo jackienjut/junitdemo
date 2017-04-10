@@ -1,4 +1,4 @@
-package test.com.jackie.demo;
+package com.jackie.demo;
 
 
 import com.jackie.demo.AddOperation;
